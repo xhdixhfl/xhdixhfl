@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 
 <div align-center>
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=Navy&height=200&section=header&text=gang%20GitHub&fontSize=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=gang%20GitHub&fontSize=90"/>
 </div>
