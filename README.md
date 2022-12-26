@@ -1,3 +1,7 @@
+### Hi there 👋
+
+<!--
+**xhdixhfl/xhdixhfl** is a ✨ _special_🌈🌈 ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
@@ -25,7 +29,3 @@ Here are some ideas to get you started:
   <img src="http://img.shields.io/badge/JavaScript-007396?style=round&logo=JavaScript&logoColor=white" />
   <img src="http://img.shields.io/badge/JavaScript-dkjfi?style=round&logo=JavaScript&logoColor=white" />
 </div>
-### Hi there 👋
-
-<!--
-**xhdixhfl/xhdixhfl** is a ✨ _special_🌈🌈 ✨ repository because its `README.md` (this file) appears on your GitHub profile.
