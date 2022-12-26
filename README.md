@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <p>🚀Platforms & Language🚀</p>
 </div>
 <div align=center>
-  <img src="http://img.shields.io/badge/JavaScript-007396?style=round&logo=JavaScript&logoColor=white" />
-  <img src="http://img.shields.io/badge/JavaScript-dkjfi?style=round&logo=JavaScript&logoColor=white" />
+  <img src="http://img.shields.io/badge/JavaScript-007396?style=round&logo=JavaScript&logoColor=black" />
+  <img src="http://img.shields.io/badge/Oracle-F80000?style=round&logo=Oracle&logoColor=black" />
+  <img src="http://img.shields.io/badge/Python-0769AD?style=round&logo=Python&logoColor=black" />
 </div>
