@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   <p>💥SNS💥</p>
 </div>
 <div>
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=yellow&link=mailto:xhdixhfl@gmail.com)](mailto:xhdixhfl@gmail.com)
- </div>
+    [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=yellow&link=mailto:xhdixhfl@gmail.com)](mailto:xhdixhfl@gmail.com)
+
+</div>
 
