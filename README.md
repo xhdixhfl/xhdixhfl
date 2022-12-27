@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **xhdixhfl/xhdixhfl** is a ✨ _special_🌈🌈 ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=yellow&link=mailto:xhdixhfl@gmail.com)](mailto:xhdixhfl@gmail.com)
-
 
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=gang%20GitHub&fontSize=90"/>
@@ -43,3 +40,7 @@ Here are some ideas to get you started:
   <img src="http://img.shields.io/badge/Jupyter-F37626?style=round&logo=Jupyter&logoColor=white" />
   
 </div>
+<div align=center>
+  <p>💥SNS💥</p>
+</div>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=yellow&link=mailto:xhdixhfl@gmail.com)](mailto:xhdixhfl@gmail.com)
