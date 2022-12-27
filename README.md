@@ -19,14 +19,27 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=gang%20GitHub&fontSize=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=gang%20GitHub&fontSize=90"/>
 </div>
 <div align=center>
   <h3>🌎Tech Stack🌎</h3>
   <p>🚀Platforms & Language🚀</p>
 </div>
 <div align=center>
-  <img src="http://img.shields.io/badge/JavaScript-007396?style=round&logo=JavaScript&logoColor=black" />
-  <img src="http://img.shields.io/badge/Oracle-F80000?style=round&logo=Oracle&logoColor=black" />
-  <img src="http://img.shields.io/badge/Python-0769AD?style=round&logo=Python&logoColor=black" />
+  <img src="http://img.shields.io/badge/JavaScript-007396?style=round&logo=JavaScript&logoColor=white" />
+  <img src="http://img.shields.io/badge/Oracle-F80000?style=round&logo=Oracle&logoColor=white" />
+  <img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
+</div>
+<div align=center>
+  <p>✨Tools✨</p>
+</div>
+<div align=center>
+  <img src="http://img.shields.io/badge/PyCharm-000000?style=round&logo=PyCharm&logoColor=white" />
+  <img src="http://img.shields.io/badge/VisualStudioCode-007ACC?style=round&logo=VSCode&logoColor=white" />
+  <img src="http://img.shields.io/badge/Atom-66595C?style=round&logo=Atom&logoColor=white" />
+  <br>
+  <img src="http://img.shields.io/badge/Anaconda-44A833?style=round&logo=Anaconda&logoColor=white" />
+  <img src="http://img.shields.io/badge/R-276DC3?style=round&logo=R&logoColor=white" />
+  <img src="http://img.shields.io/badge/Jupyter-F37626?style=round&logo=Jupyter&logoColor=white" />
+  
 </div>
