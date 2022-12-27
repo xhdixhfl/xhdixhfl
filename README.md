@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <div align=center>
   <p>💥SNS💥</p>
 </div>
-<div>
-   <img src="http://img.shields.io/badge/Gmail-EA4335?style=round&logo=Gmail&logoColor=white&link=mailto=xhdixhfl@gmail.com" />
+<div align=center>
+   <img src="http://img.shields.io/badge/Gmail-EA4335?style=round&logo=Gmail&logoColor=white&link=mailto:xhdixhfl@gmail.com" />
 </div>
 
