@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=gang%20GitHub&fontSize=90"/>
 </div>
 <div align=center>
+  
   <h3>🌎Tech Stack🌎</h3>
   <p>🚀Platforms & Language🚀</p>
 </div>
@@ -41,9 +42,19 @@ Here are some ideas to get you started:
   
 </div>
 <div align=center>
-  <p>💥SNS💥</p>
+  <p>📫SNS📫</p>
 </div>
 <div align=center>
-   <img src="http://img.shields.io/badge/Gmail-EA4335?style=round&logo=Gmail&logoColor=white&link=mailto:xhdixhfl@gmail.com" />
+  <a href=mailto:xhdixhfl@gmail.com>
+    <img src="http://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=yellow" /> 
+  </a>
+</div>
+<div align=center>
+  <p>🌱Project🌱</p>
+</div>
+<div align=center>
+  <p>🌼my first python project🌼</p>
+  <a href=https://github.com/xhdixhfl/JMT_restaurant_List.git>
+    <img src="http://img.shields.io/badge/-1st_mini_project-655ced?style=flat&logo=Python&link=https://github.com/xhdixhfl/JMT_restaurant_List.git" />
 </div>
 
