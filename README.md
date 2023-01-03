@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </div>
 <div align=center>
   <p>🌼my second R project🌼</p>
-  <a href=[https://github.com/xhdixhfl/Retail-Data.git]>
-    <img src="http://img.shields.io/badge/-2nd_R_project-276DC3?style=flat&logo=R&link=[https://github.com/xhdixhfl/Retail-Data.git]" />
+  <a href=https://github.com/xhdixhfl/Retail-Data.git>
+    <img src="http://img.shields.io/badge/-2nd_R_project-276DC3?style=flat&logo=R&link=https://github.com/xhdixhfl/Retail-Data.git" />
 </div>  
 
