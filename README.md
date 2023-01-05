@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 <div align=center>
   <p>🌼Machine_Learning project🌼</p>
   <a href=https://github.com/xhdixhfl/Spaceship_Titanic.git>
-    <img src="http://img.shields.io/badge/-ML_project-7EBC6F?style=flat&logo=ML&link=https://github.com/xhdixhfl/Spaceship_Titanic.git" />
+    <img src="http://img.shields.io/badge/-ML_project-7EBC6F?style=flat&logo=Jupyter&link=https://github.com/xhdixhfl/Spaceship_Titanic.git" />
 </div>  
