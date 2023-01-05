@@ -53,13 +53,17 @@ Here are some ideas to get you started:
   <p>🌱Project🌱</p>
 </div>
 <div align=center>
-  <p>🌼my first python project🌼</p>
+  <p>🌼python project🌼</p>
   <a href=https://github.com/xhdixhfl/JMT_restaurant_List.git>
-    <img src="http://img.shields.io/badge/-1st_mini_project-655ced?style=flat&logo=Python&link=https://github.com/xhdixhfl/JMT_restaurant_List.git" />
+    <img src="http://img.shields.io/badge/-python_project-655ced?style=flat&logo=Python&link=https://github.com/xhdixhfl/JMT_restaurant_List.git" />
 </div>
 <div align=center>
-  <p>🌼my second R project🌼</p>
+  <p>🌼R project🌼</p>
   <a href=https://github.com/xhdixhfl/Retail-Data.git>
-    <img src="http://img.shields.io/badge/-2nd_R_project-276DC3?style=flat&logo=R&link=https://github.com/xhdixhfl/Retail-Data.git" />
+    <img src="http://img.shields.io/badge/-R_project-276DC3?style=flat&logo=R&link=https://github.com/xhdixhfl/Retail-Data.git" />
 </div>  
-
+<div align=center>
+  <p>🌼machine_learning project🌼</p>
+  <a href=https://github.com/xhdixhfl/Spaceship_Titanic.git>
+    <img src="http://img.shields.io/badge/-ML_project-276DC3?style=flat&logo=R&link=https://github.com/xhdixhfl/Spaceship_Titanic.git" />
+</div>  
