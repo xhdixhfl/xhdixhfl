@@ -67,3 +67,8 @@ Here are some ideas to get you started:
   <a href=https://github.com/xhdixhfl/Spaceship_Titanic.git>
     <img src="http://img.shields.io/badge/-ML_project-7EBC6F?style=flat&logo=Jupyter&link=https://github.com/xhdixhfl/Spaceship_Titanic.git" />
 </div>  
+<div align=center>
+  <p>🌼Deep_Learning project🌼</p>
+  <a href=https://github.com/xhdixhfl/DeepLearning-Project.git>
+    <img src="http://img.shields.io/badge/-DL_project-D00000?style=flat&logo=TensorFlow&link=https://github.com/xhdixhfl/DeepLearning-Project.git" />
+</div>  
