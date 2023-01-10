@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img src="http://img.shields.io/badge/Oracle-F80000?style=round&logo=Oracle&logoColor=white" />
   <img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
 </div>
+<br>
 <div align=center>
   <p>✨Tools✨</p>
 </div>
@@ -41,6 +42,7 @@ Here are some ideas to get you started:
   <img src="http://img.shields.io/badge/Jupyter-F37626?style=round&logo=Jupyter&logoColor=white" />
   
 </div>
+<br>
 <div align=center>
   <p>📫SNS📫</p>
 </div>
@@ -49,6 +51,7 @@ Here are some ideas to get you started:
     <img src="http://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=yellow" /> 
   </a>
 </div>
+<br>
 <div align=center>
   <p>🌱Project🌱</p>
   <a href=https://github.com/xhdixhfl/JMT_restaurant_List.git>
