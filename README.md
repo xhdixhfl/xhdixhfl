@@ -51,24 +51,14 @@ Here are some ideas to get you started:
 </div>
 <div align=center>
   <p>🌱Project🌱</p>
-</div>
-<div align=center>
-  <p>🌼Python project🌼</p>
   <a href=https://github.com/xhdixhfl/JMT_restaurant_List.git>
     <img src="http://img.shields.io/badge/-python_project-655ced?style=flat&logo=Python&link=https://github.com/xhdixhfl/JMT_restaurant_List.git" />
-</div>
-<div align=center>
-  <p>🌼R project🌼</p>
   <a href=https://github.com/xhdixhfl/Retail-Data.git>
     <img src="http://img.shields.io/badge/-R_project-276DC3?style=flat&logo=R&link=https://github.com/xhdixhfl/Retail-Data.git" />
-</div>  
-<div align=center>
-  <p>🌼Machine_Learning project🌼</p>
+    <br>
   <a href=https://github.com/xhdixhfl/Spaceship_Titanic.git>
     <img src="http://img.shields.io/badge/-ML_project-7EBC6F?style=flat&logo=Jupyter&link=https://github.com/xhdixhfl/Spaceship_Titanic.git" />
-</div>  
-<div align=center>
-  <p>🌼Deep_Learning project🌼</p>
   <a href=https://github.com/xhdixhfl/DeepLearning-Project.git>
     <img src="http://img.shields.io/badge/-DL_project-D00000?style=flat&logo=TensorFlow&link=https://github.com/xhdixhfl/DeepLearning-Project.git" />
-</div>  
+</div>
+
