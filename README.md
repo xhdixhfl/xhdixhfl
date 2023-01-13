@@ -65,3 +65,9 @@ Here are some ideas to get you started:
     <img src="http://img.shields.io/badge/-DL_project-D00000?style=flat&logo=TensorFlow&link=https://github.com/xhdixhfl/DeepLearning-Project.git" />
 </div>
 
+<div align=left>
+  <p>🎈진행중</p>
+  <a href=https://github.com/gmin33/texttec.git>
+    <img src="http://img.shields.io/badge/Crawling-43B02A?style=for-the-badge&logo=Selenium&logoColor=F37626" /> 
+  </a>  <a>with @gmin33</a>
+</div>
