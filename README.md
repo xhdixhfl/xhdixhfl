@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <img src="http://img.shields.io/badge/JavaScript-007396?style=round&logo=JavaScript&logoColor=white" />
   <img src="http://img.shields.io/badge/Oracle-F80000?style=round&logo=Oracle&logoColor=white" />
   <img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
+  <img src="http://img.shields.io/badge/R-276DC3?style=round&logo=R&logoColor=white" />
 </div>
 <br>
 <div align=center>
@@ -38,7 +39,6 @@ Here are some ideas to get you started:
   <img src="http://img.shields.io/badge/Atom-66595C?style=round&logo=Atom&logoColor=white" />
   <br>
   <img src="http://img.shields.io/badge/Anaconda-44A833?style=round&logo=Anaconda&logoColor=white" />
-  <img src="http://img.shields.io/badge/R-276DC3?style=round&logo=R&logoColor=white" />
   <img src="http://img.shields.io/badge/Jupyter-F37626?style=round&logo=Jupyter&logoColor=white" />
   
 </div>
