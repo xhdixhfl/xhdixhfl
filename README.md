@@ -16,57 +16,87 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=gang%20GitHub&fontSize=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000?&height=200&section=header&text=gang%20GitHub&fontSize=90"/>
 </div>
 <div align=center>
   
-  <h3>🌎Tech Stack🌎</h3>
-  <p>🚀Platforms & Language🚀</p>
+  <h3>☠️Tech Stack☠️</h3>
+  
 </div>
-<div align=center>
-  <img src="http://img.shields.io/badge/JavaScript-007396?style=round&logo=JavaScript&logoColor=white" />
-  <img src="http://img.shields.io/badge/Oracle-F80000?style=round&logo=Oracle&logoColor=white" />
-  <img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
-  <img src="http://img.shields.io/badge/R-276DC3?style=round&logo=R&logoColor=white" />
+<div >
+  <h5>1. Language</h5>
+  <img src="http://img.shields.io/badge/Python-000000?style=round&logo=Python&logoColor=white" />
+  <img src="http://img.shields.io/badge/R-000000?style=round&logo=R&logoColor=white" />
+  <img src="http://img.shields.io/badge/Django-000000?style=round&logo=Django&logoColor=white" />
 </div>
-<br>
-<div align=center>
-  <p>✨Tools✨</p>
-</div>
-<div align=center>
+<div>
+  <h5>2. Tools</h5>
+<!-- </div>
+<div align=center> -->
   <img src="http://img.shields.io/badge/PyCharm-000000?style=round&logo=PyCharm&logoColor=white" />
-  <img src="http://img.shields.io/badge/VisualStudioCode-007ACC?style=round&logo=VSCode&logoColor=white" />
-  <img src="http://img.shields.io/badge/Atom-66595C?style=round&logo=Atom&logoColor=white" />
-  <br>
-  <img src="http://img.shields.io/badge/Anaconda-44A833?style=round&logo=Anaconda&logoColor=white" />
-  <img src="http://img.shields.io/badge/Jupyter-F37626?style=round&logo=Jupyter&logoColor=white" />
+  <img src="http://img.shields.io/badge/VisualStudioCode-000000?style=round&logo=VSCode&logoColor=white" />
+  <img src="http://img.shields.io/badge/Atom-000000?style=round&logo=Atom&logoColor=white" />
+  <img src="http://img.shields.io/badge/Anaconda-000000?style=round&logo=Anaconda&logoColor=white" />
+  <img src="http://img.shields.io/badge/Jupyter-000000?style=round&logo=Jupyter&logoColor=white" />
   
 </div>
-<br>
-<div align=center>
-  <p>📫SNS📫</p>
+<div >
+  <h5>3. studying</h5>
+  <img src="http://img.shields.io/badge/Flask-000000?style=round&logo=Flask&logoColor=white" />
+  <img src="http://img.shields.io/badge/JavaScript-000000?style=round&logo=JavaScript&logoColor=white" />
+  <img src="http://img.shields.io/badge/Oracle-000000?style=round&logo=Oracle&logoColor=white" />
 </div>
 <div align=center>
+ <h3>🐼 Project 🐼</h3>
+ </div>
+ <div >
+  <h4>1. python_mini_project</h4>
+  <h5>
+    ● main feature:<br>
+    ● repository ----->
+  <a href=https://github.com/xhdixhfl/JMT_restaurant_List.git>
+    <img src="http://img.shields.io/badge/-python_project-E8E8E8?style=round&logo=Python&link=https://github.com/xhdixhfl/JMT_restaurant_List.git" />
+     </h5>
+</div>
+ <div>
+  <h4>2. R_project</h4>
+  <h5>
+    ● main feature:<br>
+    ● repository ----->
+  <a href=https://github.com/xhdixhfl/Retail-Data.git>
+    <img src="http://img.shields.io/badge/-R_project-E8E8E8?style=flat&logo=R&link=https://github.com/xhdixhfl/Retail-Data.git" />
+     </h5>
+</div>
+ <div>
+  <h4>3. MachineLearning_project</h4>
+  <h5>
+    ● main feature:<br>
+    ● repository ----->
+  <a href=https://github.com/xhdixhfl/Spaceship_Titanic.git>
+    <img src="http://img.shields.io/badge/-ML_project-E8E8E8?style=flat&logo=Jupyter&link=https://github.com/xhdixhfl/Spaceship_Titanic.git" />
+     </h5>
+</div>
+<div>
+  <h4>4. DeepLearning_project</h4>
+  <h5>
+    ● main feature:<br>
+    ● repository ----->
+<a href=https://github.com/xhdixhfl/DeepLearning-Project.git>
+    <img src="http://img.shields.io/badge/-DL_project-E8E8E8?style=flat&logo=TensorFlow&link=https://github.com/xhdixhfl/DeepLearning-Project.git" />
+     </h5>
+</div>
+ 
+
+<div align=right>
+  <p>📫contect to me___ 
   <a href=mailto:xhdixhfl@gmail.com>
     <img src="http://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=yellow" /> 
   </a>
-</div>
-<br>
-<div align=center>
-  <p>🌱Project🌱</p>
-  <a href=https://github.com/xhdixhfl/JMT_restaurant_List.git>
-    <img src="http://img.shields.io/badge/-python_project-655ced?style=flat&logo=Python&link=https://github.com/xhdixhfl/JMT_restaurant_List.git" />
-  <a href=https://github.com/xhdixhfl/Retail-Data.git>
-    <img src="http://img.shields.io/badge/-R_project-276DC3?style=flat&logo=R&link=https://github.com/xhdixhfl/Retail-Data.git" />
-    <br>
-  <a href=https://github.com/xhdixhfl/Spaceship_Titanic.git>
-    <img src="http://img.shields.io/badge/-ML_project-7EBC6F?style=flat&logo=Jupyter&link=https://github.com/xhdixhfl/Spaceship_Titanic.git" />
-  <a href=https://github.com/xhdixhfl/DeepLearning-Project.git>
-    <img src="http://img.shields.io/badge/-DL_project-D00000?style=flat&logo=TensorFlow&link=https://github.com/xhdixhfl/DeepLearning-Project.git" />
+    </p>
 </div>
 
 <div align=left>
-  <p>🎈진행중</p>
+  <p>🎈ing</p>
   <a href=https://github.com/gmin33/texttec.git>
     <img src="http://img.shields.io/badge/Crawling-43B02A?style=for-the-badge&logo=Selenium&logoColor=F37626" /> 
   </a>  <a>with @gmin33</a>
