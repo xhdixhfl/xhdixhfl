@@ -50,9 +50,10 @@ Here are some ideas to get you started:
  <h3>🐼 Project 🐼</h3>
  </div>
  <div >
-  <h4>1. python_mini_project</h4>
+  <h4>1. restaurant recommend program</h4>
   <h5>
-    ● main feature:<br>
+    ● main feature : <br>
+    ● using language & tool : pyhton, pycharm <br>
     ● repository ----->
   <a href=https://github.com/xhdixhfl/JMT_restaurant_List.git>
     <img src="http://img.shields.io/badge/-python_project-E8E8E8?style=round&logo=Python&link=https://github.com/xhdixhfl/JMT_restaurant_List.git" />
