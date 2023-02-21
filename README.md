@@ -87,6 +87,25 @@ Here are some ideas to get you started:
      </h5>
 </div>
  
+<div>
+  <h4>4. DeepLearning_project</h4>
+  <h5>
+    ● main feature:<br>
+    ● repository ----->
+<a href=https://github.com/xhdixhfl/DeepLearning-Project.git>
+    <img src="http://img.shields.io/badge/-DL_project-E8E8E8?style=flat&logo=TensorFlow&link=https://github.com/xhdixhfl/DeepLearning-Project.git" />
+     </h5>
+</div>
+ <div>
+  <h4>5. Final_project</h4>
+  <h5>
+    ● main feature:<br>
+    ● repository ----->
+<a href=https://github.com/xhdixhfl/DeepLearning-Project.git>
+    <img src="http://img.shields.io/badge/-FL_project-E8E8E8?style=flat&logo=NLP&link=https://github.com/xhdixhfl/Goggles_project.git" />
+     </h5>
+</div>
+ 
 
 <div align=right>
   <p>📫contect to me___ 
