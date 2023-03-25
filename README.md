@@ -106,10 +106,9 @@ Here are some ideas to get you started:
     </p>
 </div>
 
-<!-- <div align=left>
-  <p>🎈ing</p>
+
+  <p>💡ing</p>
   <a href=https://github.com/gmin33/texttec.git>
-    <img src="http://img.shields.io/badge/Crawling-43B02A?style=for-the-badge&logo=Selenium&logoColor=F37626" /> 
-  </a>  <a>with @gmin33</a>
+    <img src="http://img.shields.io/badge/DL-43B02A?style=round&logo=DEEP&logoColor=F37626" /> 
+  </a> 
 </div>
- -->
