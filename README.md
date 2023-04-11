@@ -28,17 +28,19 @@ Here are some ideas to get you started:
   <img src="http://img.shields.io/badge/Python-000000?style=round&logo=Python&logoColor=white" />
   <img src="http://img.shields.io/badge/R-000000?style=round&logo=R&logoColor=white" />
   <img src="http://img.shields.io/badge/Django-000000?style=round&logo=Django&logoColor=white" />
+  <img src="http://img.shields.io/badge/Selenium-000000?style=round&logo=Selenium&logoColor=white" />
+  <img src="http://img.shields.io/badge/MySQL-000000?style=round&logo=MySQL&logoColor=white" />
 </div>
 <div>
   <h5>2. Tools</h5>
 <!-- </div>
 <div align=center> -->
   <img src="http://img.shields.io/badge/PyCharm-000000?style=round&logo=PyCharm&logoColor=white" />
-  <img src="http://img.shields.io/badge/VisualStudioCode-000000?style=round&logo=VSCode&logoColor=white" />
+  <img src="http://img.shields.io/badge/VSCode-000000?style=round&logo=VisualStudioCode&logoColor=white" />
   <img src="http://img.shields.io/badge/Atom-000000?style=round&logo=Atom&logoColor=white" />
   <img src="http://img.shields.io/badge/Anaconda-000000?style=round&logo=Anaconda&logoColor=white" />
   <img src="http://img.shields.io/badge/Jupyter-000000?style=round&logo=Jupyter&logoColor=white" />
-  
+  <img src="http://img.shields.io/badge/CoLab-000000?style=round&logo=googleColab&logoColor=white" />
 </div>
 <div >
   <h5>3. studying</h5>
