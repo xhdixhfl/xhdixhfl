@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 </div>
 
 
-  <p>💡ing</p>
+  / <p>done</p>
   <a href=https://github.com/gmin33/texttec.git>
     <img src="http://img.shields.io/badge/DL-43B02A?style=round&logo=DEEP&logoColor=F37626" /> 
   </a> 
