@@ -51,13 +51,15 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
+
 <div align=center>
- <h1>🟨 Project 🟨</h1>
+ <h1>🟫 Project 🟫</h1>
  </div>
  
  <div >
   <h3>① Restaurant recommend program</h3>
   <p>
+    ▶ 22.09.16. ~ 22.09.21. <br>
     ● using languages : Pyhton, Oracle <br>
     ● using tools : Pycharm, SQL Developer   ______________________
     <a href="https://github.com/xhdixhfl/JMT_restaurant_List.git">1_Project_Link</a>
@@ -67,6 +69,7 @@ Here are some ideas to get you started:
  <div>
   <h3>② OPAL generation customized product development</h3>
   <p>
+    ▶ 22.10.14. ~ 22.10.21. <br>
     ● using language : R  <br>
     ● using tools : R Studio, Excel   __________________________________
   <a href=https://github.com/xhdixhfl/Retail-Data.git>2_Project_Link</a>
@@ -76,14 +79,17 @@ Here are some ideas to get you started:
  <div>
   <h3>③ [kaggle competition]Spaceship Titanic using Stacking Ensemble, XGboost & Casboost</h3>
   <p>
+    ▶ 22.11.01. ~ 22.11.25. <br>
     ● using languages : Pyhton  <br>
     ● using tools : Colab, Excel  _____________________________________
   <a href=https://github.com/xhdixhfl/Spaceship_Titanic.git>3_Project_Link</a>
      </p>
 </div>
+
 <div>
   <h3>④ Object Detection Using Yolov5s & Detectron2</h3>
   <p>
+    ▶ 22.12.12. ~ 22.12.23. <br>
     ● using languages : Pyhton, Pytorch  <br>
     ● using tools : Colab  ____________________________________________
 <a href=https://github.com/xhdixhfl/DeepLearning-Project.git>4_Project_Link</a>
@@ -93,6 +99,7 @@ Here are some ideas to get you started:
  <div>
   <h3>⑤ Improvement of product information accessibility for Digital underprivileged </h3>
   <p>
+    ▶ 22.12.16. ~ 23.02.15. <br>
     ● using languages : Pyhton, Pytorch, Selenium, MySQL, React, Django  <br>
     ● using tools : Colab, JupyterLab, SQLite3, VScode, Pycharm ___
 <a href=https://github.com/xhdixhfl/Goggles_project.git>5_Project_Link</a>
@@ -102,6 +109,7 @@ Here are some ideas to get you started:
  <div>
   <h3>⑥ [AI CONNECT] GPT on a Labtop </h3>
   <p>
+    ▶ 23.03.22.~ 23.03.28. <br>
     ● using languages : Pyhton, Pytorch  <br>
     ● using tools : Colab ____________________________________________
 <a href=https://github.com/xhdixhfl/Goggles_project.git>6_Project_Link</a>
