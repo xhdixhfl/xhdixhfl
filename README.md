@@ -112,7 +112,7 @@ Here are some ideas to get you started:
     ▶ 23.03.22.~ 23.03.28. <br>
     ● using languages : Pyhton, Pytorch  <br>
     ● using tools : Colab ____________________________________________
-<a href=https://github.com/xhdixhfl/Goggles_project.git>6_Project_Link</a>
+<a href=https://github.com/xhdixhfl/gpt.git>6_Project_Link</a>
      </p>
 </div>
 
