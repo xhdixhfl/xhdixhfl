@@ -91,7 +91,7 @@ Here are some ideas to get you started:
   <p>
     ▶ 22.12.12. ~ 22.12.23. <br>
     ● using languages : Pyhton, Pytorch  <br>
-    ● using tools : Colab  ____________________________________________
+    ● using tools : Colab, labelme, roboflow ________________________
 <a href=https://github.com/xhdixhfl/DeepLearning-Project.git>4_Project_Link</a>
      </p>
 </div>
